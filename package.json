@@ -1,0 +1,26 @@
+{
+  "name": "pago-electronico",
+  "version": "1.0.0",
+  "description": "proyecto con nodejs y arduino para el pago electronico con tarjeta rfid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "arduino",
+    "mysql",
+    "pago-electronico"
+  ],
+  "author": "gabriel aguilar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0"
+  }
+}
