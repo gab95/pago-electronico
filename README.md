@@ -1,6 +1,6 @@
 # Aplicación para el pago electronico
 
-## Descripción
+## Descripción del sistema
 Módulo de pago electrónico para el proyecto "Pago electrónico".
 Ejectuta un servidor hecho con NodeJS para el pago electrónico con tarjeta ya registrada en el sistema.
 Si la tarjeta existe, esta activa, su saldo es mayor a 0 y tiene saldo para la transacción, entonces genera un reporte de pago en el sistema y la base de datos
